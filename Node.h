@@ -1,5 +1,3 @@
-/*Ori Bachar 208254516
-Bar Shaya 318469772*/
 #pragma once
 #include<iostream>
 #include <ctime>
