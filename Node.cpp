@@ -1,5 +1,3 @@
-/*Ori Bachar 208254516
-Bar Shaya 318469772*/
 #include "Node.h"
 
 Node::Node(int key)
