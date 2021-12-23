@@ -1,5 +1,3 @@
-/*Ori Bachar 208254516
-Bar Shaya 318469772*/
 #include "Linked_list.h"
 
 Linked_list::Linked_list()
